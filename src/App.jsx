@@ -92,7 +92,6 @@ function App() {
   );
 }
 
-// Separate component to use useLocation
 function Content() {
     return (
         <main className="flex-1 overflow-y-auto p-4 sm:p-8 lg:p-12">
